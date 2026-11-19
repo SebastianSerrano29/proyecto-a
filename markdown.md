@@ -1,5 +1,4 @@
 
-#Pruebas del formato markdown
 
 Esto es texto normal
 
@@ -10,3 +9,7 @@ Esto es mas texto normal
 ### Este es una encabezado de nivel 3 
 
 Todavia mas texto normal 
+
+Este es un ejemplo de _texto en cursiva_
+
+Este es otro ejemplo de *texto en cursiva*
